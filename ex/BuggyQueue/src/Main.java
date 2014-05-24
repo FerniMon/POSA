@@ -13,6 +13,7 @@ public class Main
     */
     static class BuggyQueue
     {
+    	//jeje
         // Resizable-array implementation.
         private List<String> mQ = new ArrayList<String>();
 
